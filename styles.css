@@ -1,15 +1,8 @@
-
 /* Your CSS Code here. */
-div{
-	display:flex;
-	flex-direction: column;
-
-	width=300px;
-	padding=50px;
-	margin=20px;
-	align-content: center;
-	border: 1px solid blue;
+.container{
 	background-color: lightblue;
-
-
+	width: 300px;
+	padding: 50px;
+	border: 15px solid blue;
+	margin: 20px;
 }
